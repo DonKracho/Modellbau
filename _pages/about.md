@@ -1,6 +1,6 @@
 ---
 layout: page
-title: impressum
+title: Impressum
 permalink: /about
 comments: false
 ---
