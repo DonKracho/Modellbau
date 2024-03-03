@@ -13,7 +13,7 @@ permalink: /:title/
 
 # Authors
 authors:
-  wolfgang:
+  wolf:
     name: Wolfgang
     display_name: Wolfgang
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
@@ -21,7 +21,7 @@ authors:
     web: https://www.wkracht.de
 #    twitter: https://twitter.com/wowthemesnet
     description: "Neuigkeiten"
-  Flohmarkt:
+  floh:
     name: Flohmarkt
     display_name: Flohmarkt    
     avatar: 'assets/images/avatar.png'
