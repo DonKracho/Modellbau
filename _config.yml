@@ -1,7 +1,7 @@
 # Site
 name: "Modellbau Blog"
 title: "Modellbau Blog"
-description: "Alles rung um mein Modellbau Hobby"
+description: "Alles rund um mein Modellbau Hobby"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /modellbau
