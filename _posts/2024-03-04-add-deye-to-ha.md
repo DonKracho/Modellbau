@@ -1,31 +1,18 @@
 ---
 layout: post
-title:  "Deye in HA integrieren"
+title:  "Deye SUN in HomeAssistant integrieren"
 author: wolf
-categories: [ HomeAssistant, tutorial ]
-tags: [red, yellow]
+categories: [ HomeAssistant, Tutorial ]
+tags: [deye]
 image: "power oscillating.png"
 description: "So wird der Deye Mikrowechselrichter SUN-M80G3-EU-Q0 800W in HomeAssistant integriert."
-featured: true
+featured: false
 hidden: true
 rating: 4.5
 ---
 
-Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! JSON-LD ready for review property.
+Hier zeige ich euch, wie ein Deye Mikrowechselrichter, in meinem Fall ein SUN-M80G3-EU-Q0 800W, in HomeAssistant integriert wird.
 
-#### How to use?
+#### Anleitung
 
-It's actually really simple! Add the rating in your YAML front matter. It also supports halfs:
 
-```html
----
-layout: post
-title:  "Inception Movie"
-author: john
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
-image: assets/images/11.jpg
-description: "My review of Inception movie. Actors, directing and more."
-rating: 4.5
----
-```
