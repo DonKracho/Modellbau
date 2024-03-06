@@ -8,7 +8,7 @@ image: "power oscillating.png"
 description: "So wird der Deye Mikrowechselrichter SUN-M80G3-EU-Q0 800W in HomeAssistant integriert."
 featured: false
 hidden: false
-rating: 2.5
+comments: false
 ---
 
 Hier zeige ich euch, wie ein Deye SUN Mikrowechselrichter in HomeAssistant integriert werden kann. In meinem Fall ist es ein Deye SUN-M80G3-EU-Q0 800W.
