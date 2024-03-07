@@ -10,14 +10,20 @@ comments: false
 
 <p>Dieses ist eine private Webseite und wird durch Github Pages realisiert und bereitgestellt. Die Seite verwendet keine Cookies</p>
 
-**Angaben gemäß § 5 TMG:
+##Angaben gemäß § 5 TMG:
+
 Wolfgang Kracht
+
 Im Hainholz 16
+
 30916 Isernhagen
+
 modellbaublog (at) wkracht.de
 
-**Haftungsausschluss – Disclaimer:
-**Haftung für Inhalte
+##Haftungsausschluss – Disclaimer:
+
+##Haftung für Inhalte
+
 Die Inhalte meiner Webseite wurden mit größtmöglicher Sorgfalt erstellt. Für die
 Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine
 Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für
@@ -31,7 +37,8 @@ Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer
 konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden
 Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
 
-**Haftungsbeschränkung für externe Links
+##Haftungsbeschränkung für externe Links
+
 Meine Webseite enthält Links zu externen Webseiten Dritter, auf deren Inhalte
 ich keinen Einfluss habe. Daher kann ich für diese fremden Inhalte auch
 keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der
@@ -43,7 +50,8 @@ Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht
 zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige
 Links umgehend entfernen.
 
-**Urheberrecht
+##Urheberrecht
+
 Die durch den Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten
 unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung,
 Verbreitung und jede Art der Verwertung außerhalb der Grenzen des
