@@ -8,22 +8,18 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Dieses ist eine private Webseite und wird durch Github Pages realisiert und bereitgestellt. Die Seite verwendet keine Cookies</p>
+<p>Dies ist eine private Webseite und wird durch Github Pages realisiert und bereitgestellt. Die Seite verwendet keine Cookies</p>
 
-##Angaben gemäß § 5 TMG:
+<h3>Angaben gemäß § 5 TMG:</h3>
 
-Wolfgang Kracht
+Wolfgang Kracht<br>
+Im Hainholz<br>
+30916 Isernhagen<br>
+modellbaublog (at) wkracht.de<br>
 
-Im Hainholz 16
+<h3>Haftungsausschluss – Disclaimer:</h3>
 
-30916 Isernhagen
-
-modellbaublog (at) wkracht.de
-
-##Haftungsausschluss – Disclaimer:
-
-##Haftung für Inhalte
-
+<h4>Haftung für Inhalte</h4>
 Die Inhalte meiner Webseite wurden mit größtmöglicher Sorgfalt erstellt. Für die
 Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine
 Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für
@@ -37,8 +33,7 @@ Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer
 konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden
 Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
 
-##Haftungsbeschränkung für externe Links
-
+<h4>Haftungsbeschränkung für externe Links</h4>
 Meine Webseite enthält Links zu externen Webseiten Dritter, auf deren Inhalte
 ich keinen Einfluss habe. Daher kann ich für diese fremden Inhalte auch
 keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der
@@ -50,8 +45,7 @@ Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht
 zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige
 Links umgehend entfernen.
 
-##Urheberrecht
-
+<h4>Urheberrecht</h4>
 Die durch den Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten
 unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung,
 Verbreitung und jede Art der Verwertung außerhalb der Grenzen des
@@ -65,5 +59,4 @@ aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei
 Bekanntwerden von Rechtsverletzungen werden ich derartige Inhalte umgehend
 entfernen.
 </div>
-
 </div>
